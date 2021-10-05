@@ -34,10 +34,3 @@ def game(list1):
 list1=[0,1,2,3,4,5,6,7,8,9]        
 list2=random.sample(list1,5)        
 game(list1)
-# while True:
-#     user=input("would you want to continue game if yes type y or no then type n")
-#     if user=="y":
-#         game(list1)
-#     else:
-#         print("quit")    
-#         break
